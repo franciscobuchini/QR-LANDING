@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
 
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://trendingbox.netlify.app/" target="_blank">
           <img className='logo logo1' src={TrendingBox} />
         </a>
         <a href="https://www.href.com.ar/en/" target="_blank">
